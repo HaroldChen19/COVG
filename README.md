@@ -1,6 +1,7 @@
 ## ___***Composite Video Generation***___
 
 ### Dataset
+[OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://github.com/NJU-PCALab/OpenVid-1M)
 
  
 ## Version-1 (till Sept. 11th)
