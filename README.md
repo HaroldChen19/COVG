@@ -30,22 +30,26 @@
 
   <tr>
     <td colspan="1">Refrence Video</td>
-    <td colspan="1">"erupting volcano"</td>
-    <td colspan="1">"black clouds"</td>
-    <td colspan="1">"an airplane in the sky"</td>
+    <td colspan="1">"black hair"</td>
+    <td colspan="1">"red hair"</td>
+    <td colspan="1">"a woman is crying"</td>
+   <td colspan="1">"a woman is laughing"</td>
   </tr>
   <tr>
   <td>
-    <img src=assets/set_1/set_1.gif width="180">
+    <img src=assets/set_2/set_2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed1.gif width="180">
+    <img src=assets/set_2/ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed2.gif width="180">
+    <img src=assets/set_2/ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed3.gif width="180">
+    <img src=assets/set_2/ed3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_2/ed4.gif width="180">
   </td>
   </tr>
 
