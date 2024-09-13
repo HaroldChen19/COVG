@@ -4,7 +4,7 @@
 [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://github.com/NJU-PCALab/OpenVid-1M)
 
  
-## Version-1 (till Sept. 11th)
+## Version-1 (Sept. 11)
 ### 1.1. Overview
 ![](./assets/pipeline/v1_pipe.png)
 The 
