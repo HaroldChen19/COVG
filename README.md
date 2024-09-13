@@ -5,13 +5,13 @@
 
  
 ## Version-1 (till Sept. 11th)
-### Overview
+### 1.1. Overview
 ![](./assets/pipeline/v1_pipe.png)
 The 
 
 
 
-### 1.1. Showcases (320x512)
+### 1.2. Showcases (320x512)
 
 <table class="center">
   <tr>
@@ -190,7 +190,7 @@ The
 </table >
 
 
-## ⚙️ Setup
+## Acknowledgements
 
-### To be updated...
+Our work is built on top of [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) and [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter). Thanks for their awesome work!
 
