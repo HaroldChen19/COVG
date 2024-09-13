@@ -30,7 +30,6 @@
 
   <tr>
     <td colspan="1">Refrence Video</td>
-    <td colspan="1">"black hair"</td>
     <td colspan="1">"red hair"</td>
     <td colspan="1">"a woman is crying"</td>
    <td colspan="1">"a woman is laughing"</td>
@@ -38,9 +37,6 @@
   <tr>
   <td>
     <img src=assets/set_2/set_2.gif width="180">
-  </td>
-  <td>
-    <img src=assets/set_2/ed1.gif width="180">
   </td>
   <td>
     <img src=assets/set_2/ed2.gif width="180">
@@ -53,6 +49,77 @@
   </td>
   </tr>
 
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"a man is eating"</td>
+    <td colspan="1">"eating a cake"</td>
+   <td colspan="1">"an Asian"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/set_3/set_3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_3/ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_3/ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_3/ed4.gif width="180">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"red shirt"</td>
+    <td colspan="1">"long hair"</td>
+   <td colspan="1">"a girl"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/set_6/set_6.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_6/ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_6/ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_6/ed4.gif width="180">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"black phone"</td>
+    <td colspan="1">"green wall"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/set_4/set_4.gif width="200">
+  </td>
+  <td>
+    <img src=assets/set_4/ed1.gif width="200">
+  </td>
+  <td>
+    <img src=assets/set_4/ed2.gif width="200">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"it's running"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/set_5/set_5.gif width="200">
+  </td>
+  <td>
+    <img src=assets/set_5/ed1.gif width="200">
+  </td>
+  </tr>
   <!-- <tr>
     <td colspan="2">"two people dancing"</td>
     <td colspan="2">"girl talking and blinking"</td>
