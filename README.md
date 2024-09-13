@@ -1,7 +1,9 @@
 ## ___***Composite Video Generation***___
  
-## Introduction
-🔥🔥 To be updated...
+## Version-1 (till Sept. 11th)
+![](./assets/pipeline/v1_pipe.png)
+The 
+
 
 
 ### 1.1. Showcases (320x512)
