@@ -15,19 +15,39 @@
   </tr>
   <tr>
   <td>
-    <img src=assets/set_1/set_1.gif width="170">
+    <img src=assets/set_1/set_1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed1.gif width="170">
+    <img src=assets/set_1/set_1_ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed2.gif width="170">
+    <img src=assets/set_1/set_1_ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed3.gif width="170">
+    <img src=assets/set_1/set_1_ed3.gif width="180">
   </td>
   </tr>
 
+  <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"erupting volcano"</td>
+    <td colspan="1">"black clouds"</td>
+    <td colspan="1">"an airplane in the sky"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/set_1/set_1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_1/set_1_ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_1/set_1_ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/set_1/set_1_ed3.gif width="180">
+  </td>
+  </tr>
 
   <!-- <tr>
     <td colspan="2">"two people dancing"</td>
