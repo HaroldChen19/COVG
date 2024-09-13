@@ -87,7 +87,7 @@
     <img src=assets/set_6/ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_6/ed4.gif width="180">
+    <img src=assets/set_6/ed3.gif width="180">
   </td>
   </tr>
 
