@@ -12,29 +12,33 @@
 
 [Vid2Vid-Zero: Zero-shot Video Editing Using Off-the-shelf Image Diffusion Models](https://arxiv.org/pdf/2303.17599)
 
+[ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond](https://arxiv.org/pdf/2305.17098)
+
 [Video-P2P: Video Editing with Cross-attention Control (CVPR'24)](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video-P2P_Video_Editing_with_Cross-attention_Control_CVPR_2024_paper.pdf)
 
-[ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond](https://arxiv.org/pdf/2305.17098)
+[MotionDirector: Motion Customization of Text-to-Video Diffusion Models (ECCV'24 Oral)](https://arxiv.org/pdf/2310.08465)
 
 [MotionClone: Training-Free Motion Cloning for Controllable Video Generation](https://arxiv.org/pdf/2406.05338)
 
-[MotionDirector: Motion Customization of Text-to-Video Diffusion Models (ECCV'24 Oral)](https://arxiv.org/pdf/2310.08465)
 
 
 
 **Tuning-free:**
 
-[TokenFlow: Consistent Diffusion Features for Consistent Video Editing (ICLR'24)](https://arxiv.org/pdf/2307.10373)
-
-[Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation (SIGGRAPH Asia'23)](https://arxiv.org/pdf/2306.07954)
 
 [Pix2Video: Video Editing using Image Diffusion (ICCV'23)](https://arxiv.org/pdf/2303.12688)
 
-[Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance (TVCG'24)](https://arxiv.org/pdf/2306.00943) (Add. Depth input)
+[Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation (SIGGRAPH Asia'23)](https://arxiv.org/pdf/2306.07954)
+
+[TokenFlow: Consistent Diffusion Features for Consistent Video Editing (ICLR'24)](https://arxiv.org/pdf/2307.10373)
 
 [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/pdf/2305.13840) (Add. input)
 
+[Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance (TVCG'24)](https://arxiv.org/pdf/2306.00943) (Add. Depth input)
+
 [VideoComposer: Compositional Video Synthesis with Motion Controllability (NeurIPS'23)](https://arxiv.org/pdf/2306.02018) (Add. input)
+
+
 
 **Image-to-Video:**
 
