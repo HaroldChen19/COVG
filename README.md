@@ -16,6 +16,12 @@
 
 [ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond](https://arxiv.org/pdf/2305.17098)
 
+[MotionClone: Training-Free Motion Cloning for Controllable Video Generation](https://arxiv.org/pdf/2406.05338)
+
+[MotionDirector: Motion Customization of Text-to-Video Diffusion Models (ECCV'24 Oral)](https://arxiv.org/pdf/2310.08465)
+
+
+
 **Tuning-free:**
 
 [TokenFlow: Consistent Diffusion Features for Consistent Video Editing (ICLR'24)](https://arxiv.org/pdf/2307.10373)
@@ -24,8 +30,19 @@
 
 [Pix2Video: Video Editing using Image Diffusion (ICCV'23)](https://arxiv.org/pdf/2303.12688)
 
+[Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance (TVCG'24)](https://arxiv.org/pdf/2306.00943) (Add. Depth input)
 
-To be updated
+[Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/pdf/2305.13840) (Add. input)
+
+[VideoComposer: Compositional Video Synthesis with Motion Controllability (NeurIPS'23)](https://arxiv.org/pdf/2306.02018) (Add. input)
+
+**Image-to-Video:**
+
+[DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors (ECCV'24 Oral)](https://arxiv.org/pdf/2310.12190)
+
+[Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/pdf/2311.15127)
+
+
 
 ### Metrics
 To be updated
