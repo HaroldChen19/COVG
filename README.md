@@ -19,7 +19,7 @@ During inference, given a reference video and a delta (editing) caption as condi
 
 
 
-### 1.2. Showcases (320x512)
+### 1.2. Showcases (320x512)--12,800 samples/steps
 
 <table class="center">
   <tr>
