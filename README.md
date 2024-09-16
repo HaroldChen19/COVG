@@ -40,16 +40,16 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_1/set_1.gif width="180">
+    <img src=assets/V_1/set_1/set_1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed1.gif width="180">
+    <img src=assets/V_1/set_1/set_1_ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed2.gif width="180">
+    <img src=assets/V_1/set_1/set_1_ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_1/set_1_ed3.gif width="180">
+    <img src=assets/V_1/set_1/set_1_ed3.gif width="180">
   </td>
   </tr>
 
@@ -61,16 +61,16 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_2/set_2.gif width="180">
+    <img src=assets/V_1/set_2/set_2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_2/ed2.gif width="180">
+    <img src=assets/V_1/set_2/ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_2/ed3.gif width="180">
+    <img src=assets/V_1/set_2/ed3.gif width="180">
   </td>
   <td>
-    <img src=assets/set_2/ed4.gif width="180">
+    <img src=assets/V_1/set_2/ed4.gif width="180">
   </td>
   </tr>
 
@@ -82,16 +82,16 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_3/set_3.gif width="180">
+    <img src=assets/V_1/set_3/set_3.gif width="180">
   </td>
   <td>
-    <img src=assets/set_3/ed1.gif width="180">
+    <img src=assets/V_1/set_3/ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_3/ed2.gif width="180">
+    <img src=assets/V_1/set_3/ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_3/ed4.gif width="180">
+    <img src=assets/V_1/set_3/ed4.gif width="180">
   </td>
   </tr>
 
@@ -103,16 +103,16 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_6/set_6.gif width="180">
+    <img src=assets/V_1/set_6/set_6.gif width="180">
   </td>
   <td>
-    <img src=assets/set_6/ed1.gif width="180">
+    <img src=assets/V_1/set_6/ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/set_6/ed2.gif width="180">
+    <img src=assets/V_1/set_6/ed2.gif width="180">
   </td>
   <td>
-    <img src=assets/set_6/ed3.gif width="180">
+    <img src=assets/V_1/set_6/ed3.gif width="180">
   </td>
   </tr>
 
@@ -123,13 +123,13 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_4/set_4.gif width="200">
+    <img src=assets/V_1/set_4/set_4.gif width="200">
   </td>
   <td>
-    <img src=assets/set_4/ed1.gif width="200">
+    <img src=assets/V_1/set_4/ed1.gif width="200">
   </td>
   <td>
-    <img src=assets/set_4/ed2.gif width="200">
+    <img src=assets/V_1/set_4/ed2.gif width="200">
   </td>
   </tr>
 
@@ -139,10 +139,10 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/set_5/set_5.gif width="200">
+    <img src=assets/V_1/set_5/set_5.gif width="200">
   </td>
   <td>
-    <img src=assets/set_5/ed1.gif width="200">
+    <img src=assets/V_1/set_5/ed1.gif width="200">
   </td>
   </tr>
   <!-- <tr>
@@ -158,10 +158,10 @@ During inference, given a reference video and a delta (editing) caption as condi
   </td>
 
   <td>
-    <img src=assets/showcase/girl3.jpeg_00.png width="170">
+    <img src=assets/V_1/showcase/girl3.jpeg_00.png width="170">
   </td>
   <td>
-    <img src=assets/showcase/girl3.gif width="170">
+    <img src=assets/V_1/showcase/girl3.gif width="170">
   </td>
   </tr> -->
 
