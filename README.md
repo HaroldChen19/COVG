@@ -3,6 +3,11 @@
 ### Dataset
 [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://github.com/NJU-PCALab/OpenVid-1M)
 
+
+## Version-2 (Sept. 16)
+### 1.1. Overview
+![](./assets/pipeline/v2_pipe.png)
+#### Compare to Version-1, we add spatial LoRA and temporal LoRA to U-Net, and only fine-tuned LoRA, not the entire U-Net.
  
 ## Version-1 (Sept. 11)
 ### 1.1. Overview
