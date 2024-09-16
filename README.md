@@ -6,6 +6,10 @@
 ### Compatitors
 [Consistent Video-to-Video Transfer Using Synthetic Dataset (ICLR'24)](https://arxiv.org/pdf/2311.00213): Using a synthetic datasets (like CoVR dataset) for training with human instruction-like prompt (*e.g.*, "make ...", "turn ...", "change ...").
 
+To be updated
+
+### Metrics
+To be updated
 
 ## Version-2 (Sept. 16)
 ### 2.1. Overview
