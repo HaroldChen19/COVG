@@ -26,19 +26,19 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_1/set_1.gif width="160">
+    <img src=assets/V_2/set_1/set_1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_1/set_1_ed1.gif width="160">
+    <img src=assets/V_2/set_1/set_1_ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_1/set_1_ed2.gif width="160">
+    <img src=assets/V_2/set_1/set_1_ed2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_1/set_1_ed4.gif width="160">
+    <img src=assets/V_2/set_1/set_1_ed4.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_1/set_1_ed3.gif width="160">
+    <img src=assets/V_2/set_1/set_1_ed3.gif width="140">
   </td>
   </tr>
 
@@ -52,22 +52,22 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_2/set_2.gif width="160">
+    <img src=assets/V_2/set_2/set_2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_2/ed1.gif width="160">
+    <img src=assets/V_2/set_2/ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_2/ed2.gif width="160">
+    <img src=assets/V_2/set_2/ed2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_2/ed3.gif width="160">
+    <img src=assets/V_2/set_2/ed3.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_2/ed4.gif width="160">
+    <img src=assets/V_2/set_2/ed4.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_2/ed5.gif width="160">
+    <img src=assets/V_2/set_2/ed5.gif width="140">
   </td>
   </tr>
 
@@ -81,22 +81,22 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_3/set_3.gif width="160">
+    <img src=assets/V_2/set_3/set_3.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_3/ed1.gif width="160">
+    <img src=assets/V_2/set_3/ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_3/ed2.gif width="160">
+    <img src=assets/V_2/set_3/ed2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_3/ed3.gif width="160">
+    <img src=assets/V_2/set_3/ed3.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_3/ed4.gif width="160">
+    <img src=assets/V_2/set_3/ed4.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_3/ed5.gif width="160">
+    <img src=assets/V_2/set_3/ed5.gif width="140">
   </td>
   </tr>
 
@@ -110,22 +110,22 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_6/set_6.gif width="160">
+    <img src=assets/V_2/set_6/set_6.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_6/ed1.gif width="160">
+    <img src=assets/V_2/set_6/ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_6/ed2.gif width="160">
+    <img src=assets/V_2/set_6/ed2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_6/ed3.gif width="160">
+    <img src=assets/V_2/set_6/ed3.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_6/ed4.gif width="160">
+    <img src=assets/V_2/set_6/ed4.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_6/ed5.gif width="160">
+    <img src=assets/V_2/set_6/ed5.gif width="140">
   </td>
   </tr>
 
@@ -137,16 +137,16 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_4/set_4.gif width="160">
+    <img src=assets/V_2/set_4/set_4.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed1.gif width="160">
+    <img src=assets/V_2/set_4/ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed2.gif width="160">
+    <img src=assets/V_2/set_4/ed2.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed3.gif width="160">
+    <img src=assets/V_2/set_4/ed3.gif width="140">
   </td>
   </tr>
 
@@ -157,13 +157,13 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_5/set_5.gif width="160">
+    <img src=assets/V_2/set_5/set_5.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_5/ed1.gif width="160">
+    <img src=assets/V_2/set_5/ed1.gif width="140">
   </td>
   <td>
-    <img src=assets/V_2/set_5/ed2.gif width="160">
+    <img src=assets/V_2/set_5/ed2.gif width="140">
   </td>
   </tr>
   
