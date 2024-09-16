@@ -5,6 +5,17 @@
 
 ### Compatitors
 [Consistent Video-to-Video Transfer Using Synthetic Dataset (ICLR'24)](https://arxiv.org/pdf/2311.00213): Using a synthetic datasets (like CoVR dataset) for training with human instruction-like prompt (*e.g.*, "make ...", "turn ...", "change ...").
+**Per-video tuning:**
+[Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation (ICCV'23)](https://arxiv.org/pdf/2212.11565)
+[Vid2Vid-Zero: Zero-shot Video Editing Using Off-the-shelf Image Diffusion Models](https://arxiv.org/pdf/2303.17599)
+[Video-P2P: Video Editing with Cross-attention Control (CVPR'24)](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video-P2P_Video_Editing_with_Cross-attention_Control_CVPR_2024_paper.pdf)
+[ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond](https://arxiv.org/pdf/2305.17098)
+
+**Tuning-free:**
+[TokenFlow: Consistent Diffusion Features for Consistent Video Editing (ICLR'24)](https://arxiv.org/pdf/2307.10373)
+[Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation (SIGGRAPH Asia'23)](https://arxiv.org/pdf/2306.07954)
+[Pix2Video: Video Editing using Image Diffusion (ICCV'23)](https://arxiv.org/pdf/2303.12688)
+
 
 To be updated
 
