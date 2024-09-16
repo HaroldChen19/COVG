@@ -5,9 +5,12 @@
 
 
 ## Version-2 (Sept. 16)
-### 1.1. Overview
+### 2.1. Overview
 ![](./assets/pipeline/v2_pipe.png)
 #### Compare to Version-1, we add spatial LoRA and temporal LoRA to U-Net, and only fine-tuned LoRA, not the entire U-Net.
+
+### 2.2. Showcases (320x512)--12,800 samples/steps
+
  
 ## Version-1 (Sept. 11)
 ### 1.1. Overview
