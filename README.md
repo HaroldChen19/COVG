@@ -8,6 +8,8 @@
 ### 2.1. Overview
 ![](./assets/pipeline/v2_pipe.png)
 #### Compare to Version-1, we add spatial LoRA and temporal LoRA to U-Net, and only fine-tuned LoRA, not the entire U-Net.
+We found that comparing to Version-1, only fine-tuning LoRA can show better editing ability， *e.g.*, the backgroud editing.
+
 
 ### 2.2. Showcases (320x512)--12,800 samples/steps
 
