@@ -5,6 +5,7 @@
 
 ### Compatitors
 [Consistent Video-to-Video Transfer Using Synthetic Dataset (ICLR'24)](https://arxiv.org/pdf/2311.00213): Using a synthetic datasets (like CoVR dataset) for training with human instruction-like prompt (*e.g.*, "make ...", "turn ...", "change ...").
+
 **Per-video tuning:**
 [Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation (ICCV'23)](https://arxiv.org/pdf/2212.11565)
 [Vid2Vid-Zero: Zero-shot Video Editing Using Off-the-shelf Image Diffusion Models](https://arxiv.org/pdf/2303.17599)
