@@ -49,7 +49,28 @@
 
 
 ### Metrics
-To be updated
+
+**Objective Metrics:**
+
+Fréchet Video Distance (FVD)
+
+Kernel Video Distance (KVD)
+
+PickScore: computing the average image-text alignment over all video frames
+
+CLIP Frame (Frame Consistency): measuring the average cosine similarity among CLIP image embeddings across all video frames
+
+**User Study:**
+
+Text Alignment
+
+Temporal Coherence
+
+Structure Consistency
+
+Overall Quality
+
+
 
 ## Version-2 (Sept. 16)
 ### 2.1. Overview
