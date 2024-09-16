@@ -16,6 +16,158 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
 
 ### 2.2. Showcases (320x512)--12,800 samples/steps
 
+<table class="center">
+  <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"erupting volcano"</td>
+    <td colspan="1">"black clouds"</td>
+    <td colspan="1">"black sky"</td>
+    <td colspan="1">"an airplane in the sky"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_1/set_1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_1/set_1_ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_1/set_1_ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_1/set_1_ed4.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_1/set_1_ed3.gif width="180">
+  </td>
+  </tr>
+
+  <tr>
+    <td colspan="1">Refrence Video</td>
+   <td colspan="1">"black hair"</td>
+    <td colspan="1">"red hair"</td>
+    <td colspan="1">"a woman is crying"</td>
+   <td colspan="1">"a woman is laughing"</td>
+   <td colspan="1">"with green background"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_2/set_2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_2/ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_2/ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_2/ed3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_2/ed4.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_2/ed5.gif width="180">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"a man is eating"</td>
+    <td colspan="1">"eating a cake"</td>
+    <td colspan="1">"short hair"</td>
+   <td colspan="1">"an Asian"</td>
+    <td colspan="1">"on the beach"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_3/set_3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_3/ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_3/ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_3/ed3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_3/ed4.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_3/ed5.gif width="180">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"red shirt"</td>
+    <td colspan="1">"long hair"</td>
+   <td colspan="1">"a girl"</td>
+    <td colspan="1">"on the playground"</td>
+    <td colspan="1">"on the beach"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_6/set_6.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_6/ed1.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_6/ed2.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_6/ed3.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_6/ed4.gif width="180">
+  </td>
+  <td>
+    <img src=assets/V_2/set_6/ed5.gif width="180">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"black phone"</td>
+    <td colspan="1">"green wall"</td>
+    <td colspan="1">"a woman"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_4/set_4.gif width="200">
+  </td>
+  <td>
+    <img src=assets/V_2/set_4/ed1.gif width="200">
+  </td>
+  <td>
+    <img src=assets/V_2/set_4/ed2.gif width="200">
+  </td>
+  <td>
+    <img src=assets/V_2/set_4/ed3.gif width="200">
+  </td>
+  </tr>
+
+   <tr>
+    <td colspan="1">Refrence Video</td>
+    <td colspan="1">"it's running"</td>
+    <td colspan="1">"red water"</td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/V_2/set_5/set_5.gif width="200">
+  </td>
+  <td>
+    <img src=assets/V_2/set_5/ed1.gif width="200">
+  </td>
+  <td>
+    <img src=assets/V_2/set_5/ed2.gif width="200">
+  </td>
+  </tr>
+  
+</table >
  
 ## Version-1 (Sept. 11)
 ### 1.1. Overview
@@ -159,7 +311,6 @@ During inference, given a reference video and a delta (editing) caption as condi
   <td>
     <img src=assets/showcase/dance1.gif width="170">
   </td>
-
   <td>
     <img src=assets/V_1/showcase/girl3.jpeg_00.png width="170">
   </td>
