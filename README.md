@@ -137,16 +137,16 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_4/set_4.gif width="200">
+    <img src=assets/V_2/set_4/set_4.gif width="160">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed1.gif width="200">
+    <img src=assets/V_2/set_4/ed1.gif width="160">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed2.gif width="200">
+    <img src=assets/V_2/set_4/ed2.gif width="160">
   </td>
   <td>
-    <img src=assets/V_2/set_4/ed3.gif width="200">
+    <img src=assets/V_2/set_4/ed3.gif width="160">
   </td>
   </tr>
 
@@ -157,13 +157,13 @@ We found that comparing to Version-1, only fine-tuning LoRA can show better edit
   </tr>
   <tr>
   <td>
-    <img src=assets/V_2/set_5/set_5.gif width="200">
+    <img src=assets/V_2/set_5/set_5.gif width="160">
   </td>
   <td>
-    <img src=assets/V_2/set_5/ed1.gif width="200">
+    <img src=assets/V_2/set_5/ed1.gif width="160">
   </td>
   <td>
-    <img src=assets/V_2/set_5/ed2.gif width="200">
+    <img src=assets/V_2/set_5/ed2.gif width="160">
   </td>
   </tr>
   
@@ -278,13 +278,13 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/V_1/set_4/set_4.gif width="200">
+    <img src=assets/V_1/set_4/set_4.gif width="180">
   </td>
   <td>
-    <img src=assets/V_1/set_4/ed1.gif width="200">
+    <img src=assets/V_1/set_4/ed1.gif width="180">
   </td>
   <td>
-    <img src=assets/V_1/set_4/ed2.gif width="200">
+    <img src=assets/V_1/set_4/ed2.gif width="180">
   </td>
   </tr>
 
@@ -294,10 +294,10 @@ During inference, given a reference video and a delta (editing) caption as condi
   </tr>
   <tr>
   <td>
-    <img src=assets/V_1/set_5/set_5.gif width="200">
+    <img src=assets/V_1/set_5/set_5.gif width="180">
   </td>
   <td>
-    <img src=assets/V_1/set_5/ed1.gif width="200">
+    <img src=assets/V_1/set_5/ed1.gif width="180">
   </td>
   </tr>
   <!-- <tr>
