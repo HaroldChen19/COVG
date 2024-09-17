@@ -1,9 +1,9 @@
-## ___***Literature Review***___
+# ___***Literature Review***___
 
-### Video Editing
+## Video Editing
 
 
-#### 📌Condition (Depth, Canny, Hed Maps) Guided:
+### 📌Condition (Depth, Canny, Hed Maps) Guided:
 
 ***Motions are controlled via additional condition inputs, due to the massive loss of original video information, style editing is preferred even when full semantics are provided***
 
