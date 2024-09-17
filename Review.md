@@ -3,19 +3,20 @@
 ### Video Editing
 
 
-**Condition (Depth, Canny, Hed Maps) Guided:**
+📌**Condition (Depth, Canny, Hed Maps) Guided:**
 
 ***Motions are controlled via additional condition inputs, due to the massive loss of original video information, style editing is preferred even when full semantics are provided***
 
 [Control-A-Video](https://arxiv.org/pdf/2305.13840) and [VideoControlNet](https://arxiv.org/pdf/2307.14073): motion-aware editing; style editing
 
+***Based on diffusion atlases, editing the foreground and background separately is limited in applicable scenarios and prone to unnatural foreground-background splicing and temporal consistency.***
 
 [StableVideo (ICCV'23)](https://arxiv.org/pdf/2308.09592) and [DiffusionAtlas](https://arxiv.org/pdf/2312.03772): can only control foreground and background
 
 
 
 
-**Attention (DDIM Inversion) Control:**
+📌**Attention (DDIM Inversion) Control:**
 
 ***Shapes are controlled via DDIM inversion, so full semantic information is still required for editing.***
 
