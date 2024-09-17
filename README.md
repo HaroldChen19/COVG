@@ -79,7 +79,7 @@ Overall Quality
 We found that comparing to Version-1, only fine-tuning LoRA can show better editing ability， *e.g.*, the backgroud editing.
 
 
-### 2.2. Showcases (320x512)--12,800 samples/steps
+### 2.2. Showcases (320x512)--128,000 samples/steps
 
 <table class="center">
   <tr>
@@ -249,7 +249,7 @@ During inference, given a reference video and a delta (editing) caption as condi
 
 
 
-### 1.2. Showcases (320x512)--12,800 samples/steps
+### 1.2. Showcases (320x512)--128,000 samples/steps
 
 <table class="center">
   <tr>
