@@ -74,6 +74,12 @@ Structure Consistency
 Overall Quality
 
 
+## Version-3 (Sept. 21)
+### 3.1. Overview
+![](./assets/pipeline/v3_pipe.png)
+#### Compare to Version-2, we add adapter into the CLIP visual encoder to better process the video data.
+
+
 
 ## Version-2 (Sept. 16)
 ### 2.1. Overview
