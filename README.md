@@ -4,7 +4,7 @@
 [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://github.com/NJU-PCALab/OpenVid-1M)
 
 ### Benchmark
-LOVEU-TGVE competition at CVPR 2023
+[LOVEU-TGVE competition at CVPR 2023](https://github.com/showlab/loveu-tgve-2023?tab=readme-ov-file)
 
 ### Compatitors
 [Consistent Video-to-Video Transfer Using Synthetic Dataset (ICLR'24)](https://arxiv.org/pdf/2311.00213): Using a synthetic datasets (like CoVR dataset) for training with human instruction-like prompt (*e.g.*, "make ...", "turn ...", "change ...").
