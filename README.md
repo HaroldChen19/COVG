@@ -10,8 +10,6 @@
 ### Benchmark
 [LOVEU-TGVE competition at CVPR 2023](https://github.com/showlab/loveu-tgve-2023?tab=readme-ov-file)
 
-### Compatitors
-[Consistent Video-to-Video Transfer Using Synthetic Dataset (ICLR'24)](https://arxiv.org/pdf/2311.00213): Using a synthetic datasets (like CoVR dataset) for training with human instruction-like prompt (*e.g.*, "make ...", "turn ...", "change ...").
 
 
 ### Metrics
