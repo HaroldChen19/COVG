@@ -38,6 +38,23 @@ Structure Consistency
 Overall Quality
 
 
+### Ablation Study
+
+**LoRA finetune vs. Fully finetune**
+
+**w/ Adapter vs. w/o Adapter**
+
+**LoRA rank**
+
+**text prompt types**
+
+**Different values of text and video guidance scales**
+
+**w/o DDIM inversion vs. w/ DDIM inversion**
+
+**number of DDIM sampling steps**
+
+
 ## Version-3 (Sept. 21)
 ### 3.1. Overview
 ![](./assets/pipeline/v3_pipe.png)
