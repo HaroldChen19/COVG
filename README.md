@@ -1,6 +1,7 @@
 ## ___***Composite Video Generation***___
 
 ### Literature Review
+**Comparison with state-of-the-art text-based video editing works.** "Tune": One-shot or few-shot tuning-based; "I2I": Image editing model (e.g., InstructPix2Pix) assisted.
 ![](./assets/survey.png)
 
 ### Training Dataset
