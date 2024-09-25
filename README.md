@@ -16,13 +16,16 @@
 
 **Objective Metrics:**
 
-Fréchet Video Distance (FVD)
-
-Kernel Video Distance (KVD)
-
 PickScore: computing the average image-text alignment over all video frames
 
 CLIP Frame (Frame Consistency): measuring the average cosine similarity among CLIP image embeddings across all video frames
+
+Interpolation Error, Interpolation PSNR, Warp Error: temporal consistency
+
+CLIP Text: text alignment
+
+
+
 
 **User Study:**
 
